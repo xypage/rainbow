@@ -1,0 +1,26 @@
+.bg {
+  background-color:black;
+  height:100vh;
+}
+.rainbow {height:100vh;}
+.number1 {
+  background-color:red;
+}
+.number2 {
+  background-color:orange;
+}
+.number3 {
+  background-color:yellow;
+}
+.number4 {
+  background-color:green;
+}
+.number5 {
+  background-color:blue;
+}
+.number6 {
+  background-color:indigo;
+}
+.number7 {
+  background-color:violet;
+}
